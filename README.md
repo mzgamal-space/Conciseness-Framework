@@ -5,6 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3991--1153-green)](https://orcid.org/0009-0006-3991-1153)
 [![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19861791-blue)](https://doi.org/10.5281/zenodo.19861791)
+[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19980452-blue)](https://doi.org/10.5281/zenodo.19980452)
 
 > *"Wisdom is the Lossless Compression of Reality. Safety is its natural ground state."*
 > — Mohamed Gamal Eldin Abdelaziz Noureldin
